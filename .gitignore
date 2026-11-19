@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# File rahasia dan konfigurasi lokal
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets.json
+credentials.json
+
+# Dataset citra (hindari publikasi tanpa izin)
+dataset/
+datasets/
+data/
+*.tif
+*.tiff
+
+# File sementara
+*.log
+*.tmp
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# File editor
+.vscode/
+.idea/
+
+# Artikel ilmiah dan referensi PDF
+referensi/
+
+# File HTML sementara hasil penyimpanan browser
+diagram/*_files/
+diagram/*.html
+
+# Dataset mentah dan citra histopatologi
+*.tif
+*.tiff
+
+# File sistem operasi
+desktop.ini

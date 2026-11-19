@@ -1,0 +1,28 @@
+{
+  "fitur": [
+    "correlation",
+    "contrast",
+    "homogeneity"
+  ],
+  "strategi": "class_balanced",
+  "knots": {
+    "correlation": [
+      0.4000675703633607,
+      0.4461804929928349,
+      0.49525607886455303
+    ],
+    "contrast": [
+      14.1436622633122,
+      17.498631085399875,
+      20.094124225057687
+    ],
+    "homogeneity": [
+      0.2489106163361946,
+      0.2717487885699439,
+      0.29323123976212573
+    ]
+  },
+  "output_shape": "segitiga simetris 0,0.5,1",
+  "decision": "luas agregasi MAX terbesar; centroid kanal 0.5 bila aktif",
+  "validation": "leave-one-prefix-group-out; seluruh parameter dipelajari ulang per fold"
+}

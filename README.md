@@ -79,7 +79,8 @@ Video demonstrasi memperlihatkan:
 3. Proses klasifikasi menggunakan fitur GLCM dan Fuzzy Mamdani.
 4. Hasil prediksi kelas CLL, FL, atau MCL.
 
-**Video Demonstrasi:** [Tonton melalui Google Drive](MASUKKAN_LINK_GOOGLE_DRIVE_DI_SINI)
+**Video Demonstrasi:** [Tonton melalui Google Drive]https://drive.google.com/drive/folders/1CUlLL4nfroAUC7Zj73jzblvgZ-QrJkb7?usp=sharing
+
 
 **Catatan:** Aplikasi merupakan prototipe penelitian akademik dan tidak ditujukan untuk diagnosis klinis.
 

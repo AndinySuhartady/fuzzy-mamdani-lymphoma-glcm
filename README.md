@@ -79,10 +79,22 @@ Video demonstrasi memperlihatkan:
 3. Proses klasifikasi menggunakan fitur GLCM dan Fuzzy Mamdani.
 4. Hasil prediksi kelas CLL, FL, atau MCL.
 
-**Video Demonstrasi:** [Tonton melalui Google Drive]https://drive.google.com/drive/folders/1CUlLL4nfroAUC7Zj73jzblvgZ-QrJkb7?usp=sharing
+**Video Demonstrasi:** https://drive.google.com/drive/folders/1CUlLL4nfroAUC7Zj73jzblvgZ-QrJkb7?usp=sharing
 
 
 **Catatan:** Aplikasi merupakan prototipe penelitian akademik dan tidak ditujukan untuk diagnosis klinis.
+
+
+## Notebook Eksperimen Kaggle
+
+Eksperimen klasifikasi citra histopatologi limfoma
+menggunakan ekstraksi fitur GLCM dan metode Fuzzy
+Mamdani didokumentasikan melalui Kaggle Notebook.
+
+**Notebook Kaggle:** https://www.kaggle.com/datasets/andrewmvd/malignant-lymphoma-classification
+
+Kode implementasi dan hasil evaluasi juga tersedia
+dalam repository GitHub ini.
 
 ## Keterbatasan
 

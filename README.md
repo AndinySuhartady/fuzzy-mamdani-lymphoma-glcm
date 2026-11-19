@@ -69,6 +69,20 @@ Proyek juga mencakup prototipe antarmuka berbasis Streamlit untuk mendemonstrasi
 
 Petunjuk dan dependensi aplikasi tersedia di direktori `streamlit_mamdani/`.
 
+## Dokumentasi GUI
+
+Aplikasi klasifikasi citra histopatologi limfoma dikembangkan menggunakan Python dan Streamlit.
+
+Video demonstrasi memperlihatkan:
+1. Tampilan utama aplikasi.
+2. Proses unggah citra histopatologi.
+3. Proses klasifikasi menggunakan fitur GLCM dan Fuzzy Mamdani.
+4. Hasil prediksi kelas CLL, FL, atau MCL.
+
+**Video Demonstrasi:** [Tonton melalui Google Drive](MASUKKAN_LINK_GOOGLE_DRIVE_DI_SINI)
+
+**Catatan:** Aplikasi merupakan prototipe penelitian akademik dan tidak ditujukan untuk diagnosis klinis.
+
 ## Keterbatasan
 
 - Performa klasifikasi masih relatif rendah.
